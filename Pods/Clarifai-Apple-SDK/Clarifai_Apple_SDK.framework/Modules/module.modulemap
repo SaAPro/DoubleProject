@@ -1,0 +1,6 @@
+framework module Clarifai_Apple_SDK {
+    umbrella header "Clarifai-Apple-SDK.h"
+
+    export *
+    module * { export * }
+}

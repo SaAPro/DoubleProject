@@ -1,0 +1,6 @@
+framework module Pods_Double_projectTests {
+  umbrella header "Pods-Double_projectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
